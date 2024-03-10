@@ -1,0 +1,188 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Iphone 01",
+        "imagen": "./img/pro/13pro.png",
+        "categoria": {
+            "nombre": "PRO",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Iphone 01",
+        "imagen": "./img/pro/13pro.png",
+        "categoria": {
+            "nombre": "PRO",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Iphone 01",
+        "imagen": "./img/pro/13pro.png",
+        "categoria": {
+            "nombre": "PRO",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Iphone 01",
+        "imagen": "./img/pro/13pro.png",
+        "categoria": {
+            "nombre": "PRO",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Iphone 01",
+        "imagen": "./img/pro/13pro.png",
+        "categoria": {
+            "nombre": "PRO",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+
+
+
+    {
+        "id": "Iphone-01",
+        "titulo": "Iphone 01",
+        "imagen": "./img/medium/Frente-03.png",
+        "categoria": {
+            "nombre": "Medio",
+            "id": "medio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Iphone-02",
+        "titulo": "Iphone 02",
+        "imagen": "./img/medium/Frente-03.png",
+        "categoria": {
+            "nombre": "Medio",
+            "id": "medio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Iphone-03",
+        "titulo": "Iphone 03",
+        "imagen": "./img/medium/Frente-03.png",
+        "categoria": {
+            "nombre": "Medio",
+            "id": "medio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Iphone-04",
+        "titulo": "Iphone 04",
+        "imagen": "./img/medium/Frente-03.png",
+        "categoria": {
+            "nombre": "Medio",
+            "id": "medio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Iphone-05",
+        "titulo": "Iphone 05",
+        "imagen": "./img/medium/Frente-03.png",
+        "categoria": {
+            "nombre": "Medio",
+            "id": "medio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Iphone-06",
+        "titulo": "Iphone 06",
+        "imagen": "./img/medium/Frente-03.png",
+        "categoria": {
+            "nombre": "Medio",
+            "id": "medio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Iphone-07",
+        "titulo": "Iphone 07",
+        "imagen": "./img/medium/Frente-03.png",
+        "categoria": {
+            "nombre": "Medio",
+            "id": "medio"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Iphone-08",
+        "titulo": "Iphone 08",
+        "imagen": "./img/medium/Frente-03.png",
+        "categoria": {
+            "nombre": "Medio",
+            "id": "medio"
+        },
+        "precio": 1000
+    },
+
+
+
+    {
+        "id": "pantalon-01",
+        "titulo": "Iphone XR",
+        "imagen": "./img/basic/XR.png",
+        "categoria": {
+            "nombre": "Basic",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón 02",
+        "imagen": "./img/basic/XR.png",
+        "categoria": {
+            "nombre": "Basic",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón 03",
+        "imagen": "./img/basic/XR.png",
+        "categoria": {
+            "nombre": "Basic",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón 04",
+        "imagen": "./img/basic/XR.png",
+        "categoria": {
+            "nombre": "Basic",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón 05",
+        "imagen": "./img/basic/XR.png",
+        "categoria": {
+            "nombre": "Basic",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    }
+]
