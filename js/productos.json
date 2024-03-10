@@ -147,7 +147,7 @@
     },
     {
         "id": "pantalon-02",
-        "titulo": "Pantalón 02",
+        "titulo": "Iphone XR",
         "imagen": "./img/basic/XR.png",
         "categoria": {
             "nombre": "Basic",
@@ -157,7 +157,7 @@
     },
     {
         "id": "pantalon-03",
-        "titulo": "Pantalón 03",
+        "titulo": "Iphone XR",
         "imagen": "./img/basic/XR.png",
         "categoria": {
             "nombre": "Basic",
@@ -167,7 +167,7 @@
     },
     {
         "id": "pantalon-04",
-        "titulo": "Pantalón 04",
+        "titulo": "Iphone XR",
         "imagen": "./img/basic/XR.png",
         "categoria": {
             "nombre": "Basic",
@@ -177,7 +177,7 @@
     },
     {
         "id": "pantalon-05",
-        "titulo": "Pantalón 05",
+        "titulo": "Iphone XR",
         "imagen": "./img/basic/XR.png",
         "categoria": {
             "nombre": "Basic",
